@@ -4,6 +4,21 @@ body {
 
 
 h1 {
-    font-family: 'Libre Baskerville', serif;
+    font-size: 3rem;
+    text-transform: uppercase;
 }
 
+
+#group1 {
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    margin-top: 100px;
+    font-family: ;font-family: 'Libre Baskerville', serif;
+    color: white;
+}
+
+#laugh {
+    width: 100%;
+    border: 5px solid white;
+}
